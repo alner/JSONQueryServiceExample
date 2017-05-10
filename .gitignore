@@ -1,0 +1,6 @@
+*.zip
+node_modules/
+*.txt
+*.log
+*.qvx
+*.qvw
